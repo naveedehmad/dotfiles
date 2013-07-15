@@ -24,3 +24,6 @@ zstyle ':completion:*' insert-tab pending
 
 # Load files
 for file (~/.zsh/*.zsh) source $file
+
+# Load RVM
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
