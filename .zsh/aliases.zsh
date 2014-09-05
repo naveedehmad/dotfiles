@@ -12,6 +12,7 @@ alias gsu='git submodule update --init --recursive'
 alias gs='git status'
 compdef _git gs=git-status
 alias gut='git'
+alias grp='git remote prune origin'
 
 # Rails
 alias tlog='tail -f log/development.log'

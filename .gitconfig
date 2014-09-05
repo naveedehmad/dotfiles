@@ -1,5 +1,5 @@
 [user]
-  name = Naveed Ehmad
+	name = Naveed Ahmad
   email = naveed.ehmad@gmail.com
 [alias]
   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
@@ -14,7 +14,7 @@
 [apply]
   whitespace = nowarn
 [merge]
-  tool = kdiff3
+  tool = diffmerge
 [difftool]
   prompt = false
 [push]
