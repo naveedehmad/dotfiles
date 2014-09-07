@@ -13,6 +13,9 @@ alias gs='git status'
 compdef _git gs=git-status
 alias gut='git'
 alias grp='git remote prune origin'
+alias gba='git branch -a'
+alias gm='git merge'
+alias gm-noff='git merge --no-ff'
 
 # Rails
 alias tlog='tail -f log/development.log'
@@ -28,3 +31,4 @@ alias screensaver='/System/Library/Frameworks/ScreenSaver.framework/Versions/A/R
 # Commands starting with % for pasting from web
 alias %=' '
 alias $=' '
+
