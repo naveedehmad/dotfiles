@@ -31,16 +31,28 @@ FORMULAS=(
 brew install ${FORMULAS[@]}
 
 CASKS=(
+		dropbox
     skype
-    spotify
-    reveal
-    google-hangouts
-    silverlight
-    sonos
-    dropbox
+		harvest
+		mailbox
+		textmate
+		sequel-pro
+		filezilla
     google-chrome
+		caffeine
+		firefox
+		adobe-reader
+		sublime-text
+    spotify
+    sonos
+    reveal
     flash
     kdiff3
+		arduino
+		sketch
+		private-internet-access
+		onepassword
+		adobe-creative-cloud
 )
 brew cask install ${CASKS[@]}
 
