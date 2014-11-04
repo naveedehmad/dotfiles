@@ -25,8 +25,5 @@ zstyle ':completion:*' insert-tab pending
 # Load files
 for file (~/.zsh/*.zsh) source $file
 
-# Load RVM
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
-
 # Path
 export PATH="/Users/naveed/Code/pebble/PebbleSDK-2.0-BETA2/bin:/usr/local/php5/bin:$PATH"
