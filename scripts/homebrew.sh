@@ -32,22 +32,22 @@ brew install ${FORMULAS[@]}
 
 CASKS=(
 		dropbox
-    skype
+		skype
 		harvest
 		mailbox
 		textmate
 		sequel-pro
 		filezilla
-    google-chrome
+		google-chrome
 		caffeine
 		firefox
 		adobe-reader
 		sublime-text
-    spotify
-    sonos
-    reveal
-    flash
-    kdiff3
+		spotify
+		sonos
+		reveal
+		flash
+		kdiff3
 		arduino
 		sketch
 		private-internet-access
