@@ -49,9 +49,10 @@ CASKS=(
 		flash
 		kdiff3
 		evernote
+		virtualbox
+		vagrant
 		arduino
 		sketch
-		private-internet-access
 		onepassword
 		adobe-creative-cloud
 )
