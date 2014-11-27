@@ -48,6 +48,7 @@ CASKS=(
 		reveal
 		flash
 		kdiff3
+		evernote
 		arduino
 		sketch
 		private-internet-access
