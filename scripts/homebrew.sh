@@ -11,7 +11,7 @@ TAPS=(
 brew tap ${TAPS[@]}
 
 FORMULAS=(
-	rbenv
+		rbenv
     ruby-build
     rbenv-gem-rehash
     redis
@@ -26,6 +26,8 @@ FORMULAS=(
     libxml2
     libxslt
     libiconv
+		phantomjs
+		casperjs
     caskroom/cask/brew-cask
 )
 brew install ${FORMULAS[@]}
