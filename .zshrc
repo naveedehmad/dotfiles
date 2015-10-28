@@ -26,4 +26,9 @@ zstyle ':completion:*' insert-tab pending
 for file (~/.zsh/*.zsh) source $file
 
 # Path
-export PATH="/Users/naveed/Code/pebble/PebbleSDK-2.0-BETA2/bin:/usr/local/php5/bin:$PATH"
+export PATH="/Users/naveed/Library/Python/2.7/bin:/usr/local/php5/bin:$PATH"
+
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+
+. ~/Library/Python/2.7/lib/python/site-packages/powerline/bindings/zsh/powerline.zsh
