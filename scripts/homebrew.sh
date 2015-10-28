@@ -36,27 +36,24 @@ CASKS=(
 		dropbox
 		skype
 		harvest
-		mailbox
-		textmate
+		mailboz
 		sequel-pro
 		filezilla
 		google-chrome
 		caffeine
+		slack
 		firefox
 		adobe-reader
 		sublime-text
-		spotify
-		sonos
-		reveal
 		flash
-		kdiff3
 		evernote
 		virtualbox
 		vagrant
 		arduino
 		sketch
 		onepassword
-		adobe-creative-cloud
+		stay
+		cyberduck
 )
 brew cask install ${CASKS[@]}
 
