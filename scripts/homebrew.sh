@@ -54,6 +54,7 @@ CASKS=(
 		onepassword
 		stay
 		cyberduck
+		spotify
 )
 brew cask install ${CASKS[@]}
 
