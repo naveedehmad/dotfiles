@@ -1,5 +1,5 @@
 set nocp
-execute pathogen#infect()
+"execute pathogen#infect()
 
 set nocompatible                  " Must come first because it changes other options.
 

@@ -27,7 +27,7 @@ for file (~/.zsh/*.zsh) source $file
 
 # Path
 export PATH="/Users/naveed/Library/Python/2.7/bin:/usr/local/php5/bin:$PATH"
-
+export GOPATH="/Users/naveed/Code/go"
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
